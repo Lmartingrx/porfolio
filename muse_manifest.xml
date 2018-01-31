@@ -1,0 +1,58 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://lmartingrx.github.io/porfolio" resolutions="1x" timestamp="1517421873052">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="301733057" ref="index"/>
+    <file name="iefonts_index.css" crc="4085800914" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="lau_video.png" crc="4233323407" ref="index"/>
+    <file name="u214-4.png" crc="489083769" ref="index"/>
+    <file name="u213-4.png" crc="4260002528" ref="index"/>
+    <file name="dd.jpg" crc="18325031" ref="index"/>
+    <file name="u215-4.png" crc="97584505" ref="index"/>
+    <file name="florian-klauer-489.jpg" crc="4024857786" seo="true" ref="index"/>
+    <file name="ewan-robertson-208059.jpg" crc="3881766996" ref="index"/>
+    <file name="gaelle-marcel-8992.jpg" crc="4224813476" seo="true" ref="index"/>
+    <file name="prensi9.png" crc="71699690" ref="index"/>
+    <file name="prensi9b.png" crc="4150386900" ref="index"/>
+    <file name="prensi8.png" crc="4187275742" ref="index"/>
+    <file name="prensi8b.png" crc="4173341785" ref="index"/>
+    <file name="prensi1-01.png" crc="364464877" ref="index"/>
+    <file name="prensi1-01 copia.png" crc="48743203" ref="index"/>
+    <file name="prensi2-01.png" crc="10356196" ref="index"/>
+    <file name="prensi1-02 copia.png" crc="148010566" ref="index"/>
+    <file name="prensi3-01.png" crc="3881732310" ref="index"/>
+    <file name="prensi1-03 copia.png" crc="397205480" ref="index"/>
+    <file name="prensi6-01.png" crc="330272258" ref="index"/>
+    <file name="prensi1-04 copia.png" crc="4234089416" ref="index"/>
+    <file name="calendario.jpg" crc="206934514" ref="index"/>
+    <file name="calendario 2.jpg" crc="488447748" ref="index"/>
+    <file name="ffff.jpg" crc="3803677298" ref="index"/>
+    <file name="a322cc3367851256b37d4936b85.jpg" crc="241462023" ref="index"/>
+    <file name="wwww.jpg" crc="4019084658" ref="index"/>
+    <file name="02c4853367662656b3729e044e4.jpg" crc="434871045" ref="index"/>
+    <file name="dd2.jpg" crc="34875481" ref="index"/>
+    <file name="ee8ebe3460353756d6da2dcfeb2.jpg" crc="4160291516" ref="index"/>
+    <file name="hhh.jpg" crc="4279962374" ref="index"/>
+    <file name="a70189363272335717cc814ceee.jpg" crc="120980337" ref="index"/>
+    <file name="weee.jpg" crc="519563282" ref="index"/>
+    <file name="e31dfd3367864056b37efbe5164.jpg" crc="4229171724" ref="index"/>
+    <file name="philip-strong-213128.jpg" crc="3810922821" ref="index"/>
+    <file name="habilidades.png" crc="4274612155" ref="index"/>
+    <file name="damian-zaleski-843.jpg" crc="4013679475" ref="index"/>
+    <file name="lau2-01.png" crc="367725223" ref="index"/>
+    <file name="lin copia.png" crc="4286413592" seo="true" ref="index"/>
+    <file name="tw copia.png" crc="3857839560" seo="true" ref="index"/>
+    <file name="be.png" crc="3864977031" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="274708419" seo="true" mt="1517421298955" redirect="true"/>
+</manifest>
